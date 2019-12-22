@@ -1,9 +1,3 @@
 # Classification_of_patients
-Nowadays swimming is becoming more and more popular. The most famous Olympic champion is also swimmer Michael Phelps. However, there is stereotype that only tall athletes can become Olympic champion in swimming.
-That is why the goal of this work is to create portrait of an average swimmer athlete.
-To achieve the goal of this work, the following tasks were set:
-1. Cleaning and preparing data.
-2. Finding correlation between year of Olympic games and Height(Weight).
-3. Finding correlation between distance and Height(Weight).
-To achieve the objectives and goals in this work, we use the pandas library for working with tabular data. In addition, we will use numpy library for working with arrays and mathematic computations and matplotlib for plotting graphs. In this work we will use well-know Olimpic Dataset and create new dataset with results from official Olimpic site.
-
+At the moment, erysipelas are the 4th most common in the world among infectious diseases and, in most cases, can be cured. The main symptoms of this disease are fever, pressure, palpitations, headaches, loss of sleep and appetite. Therefore, it is proposed to develop a machine learning model that, based on these symptoms, is able to evaluate the effectiveness of treatment and, if necessary, adjust or change it.
+Since the goal of the work is very complex, at this stage only the classification of patients according to how quickly and easily treatment was received will be solved.
